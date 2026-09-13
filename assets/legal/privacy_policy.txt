@@ -1,0 +1,68 @@
+AC REMOTE: REPAIR & DIAGNOSE
+PRIVACY POLICY
+
+Effective date: August 29, 2026
+
+AC Remote: Repair & Diagnose is designed to control compatible air conditioners
+on the same local network as the user's device.
+
+INFORMATION STORED ON THE DEVICE
+
+AC Remote: Repair & Diagnose stores the following information locally so the app
+can retain the user's setup:
+
+- Device names, rooms, brands, models, local IP addresses, and ports.
+- Climate settings and schedules.
+- Theme, temperature unit, haptic, and connection preferences.
+- Onboarding completion status.
+- Whether the one-time remote-access reward has been completed.
+
+This information is not sold. Depending on operating-system settings, locally
+stored app data may be included in encrypted device backups.
+
+ADVERTISING AND CONSENT
+
+AC Remote: Repair & Diagnose uses Google AdMob to display advertising. Subject to
+the user's region, device settings, and consent choices, Google and its
+advertising partners may process information such as device or advertising
+identifiers, IP address, general device information, ad interactions, and
+diagnostics to deliver, limit, secure, and measure ads.
+
+The app uses Google's User Messaging Platform to request consent where
+required before requesting ads. When required, users can revisit their choices
+through Settings > Ad privacy choices. Google processes advertising data under
+its own privacy policies and retention practices.
+
+On iOS 14 and later, AC Remote: Repair & Diagnose also uses Apple's App Tracking
+Transparency prompt before allowing access to the device advertising
+identifier. If permission is declined, the app can continue to show ads, but
+the identifier is not included for cross-app tracking or advertising
+measurement.
+
+LOCAL NETWORK ACCESS
+
+AC Remote: Repair & Diagnose requests local network access to discover and
+communicate with compatible air conditioners. Local network addresses are used
+for device communication and are not intended to be transmitted to AC Remote:
+Repair & Diagnose servers.
+
+DATA RETENTION AND DELETION
+
+Saved devices and schedules remain on the device until the user removes them
+or uninstalls the app. Users can remove individual devices from Device Details.
+Uninstalling AC Remote: Repair & Diagnose removes its locally stored application
+data, subject to operating-system backup behavior.
+
+CHILDREN'S PRIVACY
+
+AC Remote: Repair & Diagnose is not directed to children under 13 and does not
+knowingly collect children's personal information.
+
+CHANGES TO THIS POLICY
+
+This policy may be updated as AC Remote: Repair & Diagnose's features change. The
+effective date will be updated when material changes are made.
+
+CONTACT
+
+Privacy questions can be sent to fadma01x@gmail.com.
