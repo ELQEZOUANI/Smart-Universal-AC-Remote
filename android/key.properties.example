@@ -1,4 +1,0 @@
-storePassword=replace-with-secure-store-password
-keyPassword=replace-with-secure-key-password
-keyAlias=climalink-upload
-storeFile=../keystores/climalink-upload.jks
