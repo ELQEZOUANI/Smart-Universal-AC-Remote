@@ -16,8 +16,7 @@ abstract final class AdMobConfig {
   static const iosAppOpenAdUnitId = 'ca-app-pub-2535194044471316/1984411297';
 
   // Paste the iOS Interstitial ad unit ID between the quotes.
-  static const iosInterstitialAdUnitId =
-      'ca-app-pub-2535194044471316/6989325967';
+  static const iosInterstitialAdUnitId = 'ca-app-pub-2535194044471316/6989325967';
 
   // Paste the iOS Rewarded ad unit ID between the quotes.
   static const iosRewardedAdUnitId = 'ca-app-pub-2535194044471316/3660455043';
